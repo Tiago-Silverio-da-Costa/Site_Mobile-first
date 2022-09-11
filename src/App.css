@@ -265,6 +265,9 @@ footer {
 .central {
   height: 100%;
 }
+.fivImg {
+
+}
 @media only screen and (min-width: 500px) {
   .videos ul li {
     width: 65%;

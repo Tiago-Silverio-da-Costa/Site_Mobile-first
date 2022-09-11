@@ -97,7 +97,7 @@ export default function () {
                                     <span></span>
                                 </span>
                             </div>
-                            <img src={fivImage} alt=""></img>
+                            <img src={fivImage} alt="" className="fivImg"></img>
                         </a>
                     </li>
                 </ul>
